@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new paradise of God, or, The regenerate and his fruit set forth in a sermon to the Hertfordshire-citizens at Bow-Church in Cheapside, London, July 2, 1657, being the day of their publick festival / by Isaac Craven ...</title>
+            <author>Craven, Isaac, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34946</idno>
+            <idno type="STC">Wing C6862</idno>
+            <idno type="STC">ESTC R7152</idno>
+            <idno type="EEBO-CITATION">13097328</idno>
+            <idno type="OCLC">ocm 13097328</idno>
+            <idno type="VID">97379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 413:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new paradise of God, or, The regenerate and his fruit set forth in a sermon to the Hertfordshire-citizens at Bow-Church in Cheapside, London, July 2, 1657, being the day of their publick festival / by Isaac Craven ...</title>
+                  <author>Craven, Isaac, d. 1660.</author>
+               </titleStmt>
+               <extent>[6], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Rothwell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97379:1"/>
+            <pb facs="tcp:97379:1" rendition="simple:additions"/>
+            <p>The New PARADISE OF GOD. <hi>OR The Regenerate, and his Fruit.</hi> Set forth In a SERMON to the <hi>Hertfordſhire</hi>-Citizens at <hi>Bow-Church</hi> in Cheapſide <hi>London,</hi> July 2. 1657. being the day of their publick <hi>FESTIVAL.</hi> BY ISAAC CRAVEN, Miniſter of the Goſpel at <hi>Aſton</hi> in <hi>Hertfordſhire.</hi>
+            </p>
+            <q>
+               <bibl>Cant. 4. 13.</bibl> Thy Plants are an Orchard of Pomegranats with pleaſant fruits.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Rothwell</hi> at the Fountain in <hi>Cheapſide.</hi> 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97379:2"/>
+            <pb facs="tcp:97379:2"/>
+            <head>TO MY Honoured Friends and Countrey<g ref="char:EOLhyphen"/>men of <hi>Hertfordſhire,</hi> inhabiting or ſojourning in the City of LONDON. More particularly, TO THE RIGHT WORSHIPFULL Sir <hi>Thomas Dacres,</hi> Knight.
+<list>
+                  <item>
+                     <hi>Edward Laurence,</hi> Eſq.</item>
+                  <item>Mr. <hi>Francis Kirby,</hi>
+                  </item>
+                  <item>Mr. <hi>Henry Clarke,</hi>
+                  </item>
+                  <item>Mr. <hi>John Chriſtian,</hi>
+                  </item>
+                  <item>Mr. <hi>William Brewer,</hi>
+                  </item>
+                  <item>
+                     <hi>John Jeſſon,</hi> Eſq.</item>
+                  <item>Mr. <hi>Blunt Sadleir.</hi>
+                  </item>
+                  <item>Mr. <hi>John Howland.</hi>
+                  </item>
+                  <item>Mr. <hi>Dudley Short,</hi>
+                  </item>
+                  <item>Mr. <hi>Charles Read,</hi> &amp;</item>
+                  <item>Mr. <hi>Richard Weedon.</hi>
+                  </item>
+               </list> The worthy Stewards of their late FESTIVAL.</head>
+            <opener>
+               <salute>Honoured Sirs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>N inbred affection to my <hi>Native Countrie,</hi> a civil reſpect to your <g ref="char:V">Ʋ</g>nanimous conſent, may ſuffice to juſtifie the readineſs of my com<g ref="char:EOLhyphen"/>plyance in undertaking this late ſervice.
+<pb facs="tcp:97379:3"/> Which having found the favour of your courteous acceptance, (atteſted by thoſe after-intreaties in order to a publication) inclines me to hope that the Doctrine then delivered will be drawn into ſome <g ref="char:V">Ʋ</g>ſe by Your care to practice it. I confeſſe my private genius ſtands little affected to the mode of appearing in print: Nor do I value my pains at ſo high a rate as to judge them worthy of the publick view. Howbeit, to compleat my reſpects to thoſe who imploy'd me, I have ſo far pre<g ref="char:EOLhyphen"/>vail'd againſt all reluctancies, as to gratifie Your deſires, though to my own diſſatisfacti<g ref="char:EOLhyphen"/>on. Beſeeching the Almighty to bleſſe the ex<g ref="char:EOLhyphen"/>pence of that hour with ſucceſſe of eternity; That it may prove in the iſſue as profitable to Your ſouls, as it was judged ſuitable to the ſeaſon.</p>
+            <p>And now (dear Countrie-men) having met with ſo fair an opportunity, give me leave to remember You that this Your earthly Countrie can contribute nothing of it ſelf to the illuſtration of Your perſons, <note n="a" place="margin">Niſi per te fulſeris quid tibi lux pa<g ref="char:EOLhyphen"/>triae praeter tenebras al<g ref="char:EOLhyphen"/>latura eſt? <hi>Petrarch.</hi>
+               </note> but waits to receive ſome rayes of ſplendour from
+<pb facs="tcp:97379:3"/> the reflections of your own worth. Be it therefore Your holy ambition ſo to excell in vertue and goodneſſe, that as it was anciently foretold what ſhould be ſaid of <hi>Rahab</hi> and <hi>Babylon,</hi> 
+               <note n="b" place="margin">Pſal. 87. 4.</note> &amp;c. <hi>[This man was born there,]</hi> ſo it may reflect with honour upon the places of Your firſt breathing, that this and that <hi>faithfull Chriſtian was born there.</hi>
+            </p>
+            <p>Nor will it a little advantage You to re<g ref="char:EOLhyphen"/>count in Your meditations, how in the Land of Your firſt Nativity Ye did but begin Your Pilgrimage: Yea, the World it ſelf is but the place of Your exile <note n="c" place="margin">Quid aliud terra quàm Exilium? <hi>Calv.</hi>
+               </note>. Heaven onely deſerves to be eſteemed Your Countrie <note n="d" place="margin">Patriam noſtram Pa<g ref="char:EOLhyphen"/>radiſum computa<g ref="char:EOLhyphen"/>mus. <hi>Cypr.</hi>
+               </note>. Let Your converſation therefore be in <hi>Hea<g ref="char:EOLhyphen"/>ven.</hi> And that You may ſpeed in Your moti<g ref="char:EOLhyphen"/>ons thither, ſave Your ſelves from this <hi>un<g ref="char:EOLhyphen"/>toward generation</hi> 
+               <note n="e" place="margin">Acts 2. 40.</note>; Buy the truth, and ſell it not <note n="f" place="margin">Pro. 23. 23</note>; Maintain <hi>good works for neceſſary uſes</hi> 
+               <note n="g" place="margin">Tit. 3. 14.</note>; Follow after the things which <hi>make for peace,</hi> and wherewith Ye may <hi>edifie one another</hi> 
+               <note n="h" place="margin">Rom. 14. 19.</note>.</p>
+            <p>To forbear any larger prefacing, and to
+<pb facs="tcp:97379:4"/> give You a ſummarie abridgement of all that I would ſay, [Whatſoever things are true, whatſoever things are honeſt,<note place="margin">Phil. 4. 8.</note> whatſoever things are juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of good re<g ref="char:EOLhyphen"/>port, if there be any vertue, and if there be any praiſe, think of theſe things.] And accept the poor endeavours of</p>
+            <closer>
+               <signed>Your humble and faithfull Remembrancer, IS. CRAVEN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97379:4"/>
+            <head>THE NEW PARADISE Of <hi>GOD.</hi> OR, The Regenerate and his Fruit.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 1. 3.</bibl> And he ſhall be like a Tree planted by the Rivers of Water, which bringeth forth his fruit in his ſeaſon.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Book of the <hi>Pſalms</hi> is a little <hi>Bible,</hi> ſaith <hi>Luther;</hi> An <hi>Epitome</hi> (ſaith <hi>Athanaſius</hi> of the whole <hi>Scripture</hi> 
+               <note n="a" place="margin">Ep. ad Mar<g ref="char:EOLhyphen"/>cellin.</note>; A <hi>Compendium</hi> (ſaith <hi>Baſil</hi> of all <hi>Divinity</hi> 
+               <note n="b" place="margin">In Pſ. 1.</note>: With ſuch high <hi>En<g ref="char:EOLhyphen"/>comiums</hi> have divers <hi>Expoſitors</hi> diverſly magnified it, none undeſervedly. For as the Scriptures in general are able <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to make a man wiſe unto ſalvation <note n="c" place="margin">2 Tim. 3. 15.</note>. So the drift and ſcope of this in particu<g ref="char:EOLhyphen"/>lar, is to <hi>teach us the way to be truly bleſſed.</hi>
+            </p>
+            <p>Inſomuch as this firſt Pſalm (which I take to be the Pre<g ref="char:EOLhyphen"/>face to all the reſt) begins with bleſſedneſs; yea (by the word there uſed) a plurality of bleſſedneſs, as the portion<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> of the man that walketh uprightly.</p>
+            <p>A Pſalm whoſe Author and occaſion the Original hath not hinted; there being no Title prefixt for intimation of either. Indeed, the very notion of a <hi>Preface</hi> is enough to
+<pb n="2" facs="tcp:97379:5"/> diſcover the <hi>occaſion.</hi> And being a precious piece of the <hi>Divine Canon,</hi> it muſt have the <hi>Spirit of God</hi> for its prime Author, by whoſe inſpiration all Scripture is given <note n="d" place="margin">2 Tim. 3. 16.</note>. And ſo it hath Title enough to our faith and obedience, though the Front of the Pſalm be without a Title.</p>
+            <p>Yet rather then it ſhould abſolutely paſſe without, <hi>A<g ref="char:EOLhyphen"/>thanaſius</hi> was pleaſed from the firſt word in the Greek, [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. bleſſed] to intitle the whole Pſalm <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or a Pſalm of bleſſedneſs <note n="e" place="margin">Ep. ad Mar<g ref="char:EOLhyphen"/>cell.</note>. Not as if the proper buſineſſe of it were to open the nature of bleſſedneſs; but becauſe, having propoſed it for our encouragement in the practice of true Religion <note n="f" place="margin">
+                  <g ref="char:V">Ʋ</g>t humanam infirmitatem per ſpem beati<g ref="char:EOLhyphen"/>tudinis ad in<g ref="char:EOLhyphen"/>nocens religio<g ref="char:EOLhyphen"/>nis ſtudium hortaretur. Copen in Pſ. 1. de Tit.</note>, it purpoſely deciphers and pourtrayes the perſon to whom it pertains. For to inform us whoſe portion it is, the Pſalmiſt hath moſt exactly charactered him.</p>
+            <p n="1">1. Negatively, or by what he abandons, <hi>ver. 1. He walks not in the counſell of the ungodly, he ſtands not in the way of ſinners, he ſits not in the ſeat of the ſcornfull.</hi> Neither is, nor does any of theſe.</p>
+            <p n="2">2. Poſitively, or by what he takes pleaſure in, <hi>ver. 2. His delight is in the law of the Lord.</hi> And this, not <hi>dimidiatim.</hi> with a halving partiality (like that counterfeit mother that would have the child divided; <note n="g" place="margin">1 King. 3. 26.</note> but in a bleſſed juncture of Theory and practice, of contemplation and converſation both. For firſt he delights in the ſpeculative part, [<hi>In his Law doth he meditate day and night.</hi>] And then for the practick, [<hi>He ſhall be like a tree planted by the Rivers of wa<g ref="char:EOLhyphen"/>ter, that bringeth forth his fruit in his ſeaſon.</hi>]</p>
+            <p>It is the wiſdom of the Holy Ghoſt in the volume of holy Writ, to illuſtrate heavenly truths by earthly reſemblan<g ref="char:EOLhyphen"/>ces, partly for their eaſier conveyance to our dark under<g ref="char:EOLhyphen"/>ſtandings, and partly for their deeper impreſſion in our hearts and memories. And accordingly the words before us are a <hi>Similitudinary deſcription of a bleſſed man;</hi> repre<g ref="char:EOLhyphen"/>ſenting him,</p>
+            <p n="1">1. In his Regeneration [<hi>like a Tree planted.</hi>]</p>
+            <p n="2">2. In his accommodation [<hi>by the rivers of waters.</hi>]</p>
+            <pb n="3" facs="tcp:97379:5"/>
+            <p n="3">3. And laſtly, in his fructification [<hi>that bringeth forth his fruit in his ſeaſon.</hi>]</p>
+            <p>So that (not to burden you with any ſecondary di<g ref="char:EOLhyphen"/>ſtribution) the regeneration of a ſinner, the accommoda<g ref="char:EOLhyphen"/>tion of the regenerate, and his anſwerable fructification, theſe (with Gods aſſiſtance) ſhall be the boundaries of this exerciſe. And firſt of the firſt particular in this de<g ref="char:EOLhyphen"/>ſcription of a bleſſed man, as he is repreſented in his re<g ref="char:EOLhyphen"/>generation [<hi>like a tree planted.</hi>]</p>
+            <p>Not ſimply <hi>ſicut arbor,</hi> like a tree; For a man, whether bleſſed or curſed, is capable of that reſemblance, <hi>Arbor inverſa,</hi> (as the Philoſopher cals him) a tree with his root upwards, dilating and branching downwards; (inſomuch as the dimmeſt ſighted may ſay with him in the Goſ<g ref="char:EOLhyphen"/>pel, <hi>I ſee men walking like trees</hi> 
+               <note n="h" place="margin">Mar. 8. 24.</note>; but <hi>ſicut arbor plan<g ref="char:EOLhyphen"/>tata</hi> (there lies the diſcrimination) <hi>like a tree that is planted.</hi> And planted, not meerly externally, as a viſible diſpoſall in the Church, (within whoſe aſpectable Ter<g ref="char:EOLhyphen"/>ritories many are called, few choſen <note n="i" place="margin">Mat. 20. 16.</note>), but ſpiritually and myſtically, by an inviſible ingrafture into Chriſt. For otherwiſe, that which is born of the fleſh, is fleſh, ſaith our Saviour <note n="k" place="margin">Joh. 3. 6.</note>. And not one (ſaith <hi>Job</hi>) that can bring a clean thing out of an unclean <note n="l" place="margin">Job. 14. 4.</note>. If <hi>Adam,</hi> if any of his off-ſpring beget a ſon, tis onely his own likeneſs <note n="m" place="margin">Gen. 5. 3.</note>. De<g ref="char:EOLhyphen"/>praved nature cannot act beyond the ſphere of its acti<g ref="char:EOLunhyphen"/>vity. The Gentiles before their calling, dead in treſpaſ<g ref="char:EOLhyphen"/>ſes and ſins <note n="n" place="margin">Eph. 2. 1.</note>. The Jews, before their believing, children of wrath even as others <note n="o" place="margin">Eph. 2. 3.</note>. Yea, of the lawfull marriages of Gods own people, <hi>Non generantur filii dei,</hi> ſaith <hi>Au<g ref="char:EOLhyphen"/>guſtine.</hi> There are not generated children of God, but of this world <note n="p" place="margin">Lib. 1. de nupt. &amp; conc. cap. 17.</note>. Which if the <hi>Pelagian</hi> oppoſe with his <hi>like from like,</hi> that learned Father is not behind for anſwer. The Saints (ſaith he) beget not after the Spirit of their <hi>renaſcencie,</hi> but after the fleſh of their firſt Nati<g ref="char:EOLhyphen"/>vity <note n="q" place="margin">Non gignunt ſecundum ſpiri<g ref="char:EOLhyphen"/>tum, per quem renati ſunt, ſed ſecundum car<g ref="char:EOLhyphen"/>nem è qua pa<g ref="char:EOLhyphen"/>ti ſunt.</note>. To borrow his lively illuſtration, the ſon (ye know) of a circumciſed <hi>Iſraelite</hi> was uncircumciſed born <note n="r" place="margin">Ser. 14. de verb. Apoſt.</note>. Of the ſeed of a good Olive-tree comes nothing
+<pb n="4" facs="tcp:97379:6"/> but Oleaſter, a wilde one <note n="ſ" place="margin">Ibid.</note>. So the faithfull ſpring not up naturally (as the Oake from an Acorn, or the Peach from a Stone) but by the gracious operation of a Di<g ref="char:EOLhyphen"/>vine hand. <hi>Fiunt</hi> (ſaith <hi>Tertullian) non naſcimur Chri<g ref="char:EOLhyphen"/>ſtiani</hi> 
+               <note n="t" place="margin">Apoſt. cap. 17.</note>. Or (as <hi>Hierom) non naſcimur, ſed renaſcimur Chriſtiani</hi> 
+               <note n="u" place="margin">Adverſ. Vigil.</note>. True Chriſtians are not ſuch by their car<g ref="char:EOLhyphen"/>nal birth, but as they are born again, and made mem<g ref="char:EOLhyphen"/>bers of Chriſt. Nothing to ſpeake them bleſſed till they be implanted into Chriſt; for in him it is (and in no other name <note n="w" place="margin">Act. 4. 12.</note>) that all the Nations of the earth ſhall be bleſſed <note n="x" place="margin">Gen. 22. 18.</note>.</p>
+            <p>And hence you may obſerve by the way, that this im<g ref="char:EOLhyphen"/>plantation is much different from thoſe in our Hort<g ref="char:EOLhyphen"/>yards, where Scions (commonly the better) correct the Stocks, &amp; reduce them to their own nature. No ſuch mat<g ref="char:EOLhyphen"/>ter here: We work not an alteration in the Trunk or Stock, but are our ſelves transformed and renewed by it, 2 <hi>Cor. 5. 17. If any man be in Chriſt, he is a new crea<g ref="char:EOLhyphen"/>ture.</hi> Once unprofitable, now profitable <note n="y" place="margin">Philem. v. 11.</note>; once dead, now quickned <note n="z" place="margin">Eph. 2. 1.</note>; once unclean, and (with <hi>Hieruſalem</hi>) in our blood <note n="a" place="margin">Ezek. 16. 6.</note>; now ſanctified in the name of the Lord Jeſus, and by the Spirit of our God <note n="b" place="margin">1 Cor. 6. 11.</note>.</p>
+            <p>A Doctrine of ſuch importance, as we may not diſmiſs it without a few deductions. For,</p>
+            <p>Firſt, if the Chriſtians plantation be by way of inſition, and this inſition ſo neceſſary in order to true felicity, it naturally enſues, that a Right and Title to Heaven can never be grounded upon the Nobleneſs of a Carnal ex<g ref="char:EOLhyphen"/>traction, or the naturall qualities of Conſtitution, or the moral habit of Education. All theſe (though valuable in their kind) are too light in the ballance of the San<g ref="char:EOLhyphen"/>ctuary to demonſtrate a bleſſed condition. Yea, al<g ref="char:EOLhyphen"/>though they ſhould all be found to concenter in the ſame ſubject, yet, as it ſometime fared with <hi>Naaman</hi> the <hi>Syrian</hi> [a great man with his Maſter, an honourable man, a mighty man in valour, <hi>but a Leper</hi> c] ſo, whether natu<g ref="char:EOLhyphen"/>rall<note place="margin">2 Kings 5. 1.</note> abilities, or ſecular priviledges, or moral qualifica<g ref="char:EOLhyphen"/>tions,
+<pb n="5" facs="tcp:97379:6"/> or their confluence in any one, the ſtate of irrege<g ref="char:EOLhyphen"/>neracy diſtaynes them all.</p>
+            <p>Some indeed there have been, (and may be ſtill for ought I know) of a judgment extreamly favourable in behalf of heathen Moraliſts; as if the fruit of their fair deportment were no leſſe then the fruition of Heaven. But it muſt ſound very ſtrange in the eares of ſober Chri<g ref="char:EOLhyphen"/>ſtians, that ſuch Ethnicks ſhould be tranſplanted to hea<g ref="char:EOLhyphen"/>ven, as were never implanted into Chriſt; or live by viſion, who never lived by faith; or ſee Gods kingdom, who were never born again. Undoubtedly the trees of the Paradiſe of God are none but whom his own right hand hath planted; No <hi>arbores ſylveſtres,</hi> common trees to be found there. No inheritance in heaven, but for Sonnes of God <note n="d" place="margin">Rom. 8. 17.</note>. No children of God, but by faith in Chriſt <note n="e" place="margin">Gal. 3. 26.</note>. And ſuch faith, not of our ſelves (<hi>Eph. 2. 8.) it is the gift of God.</hi> Well may we admit of Natural Theo<g ref="char:EOLhyphen"/>logie <note n="f" place="margin">Rom. 1. 19, 20.</note>, but (as a grave judicious Writer) there's no Na<g ref="char:EOLhyphen"/>tural Chriſtianity <note n="g" place="margin">Dr. Reynolds in Pſal. 110. p. 261.</note>; ſeeing they that believe in Chriſt, are born not of blood [of the impure beginnings of their conception] nor of the will of the fleſh [by the power of Nature and Free-will] nor of the will of man, [by the prevalencie of a civill education] <hi>but of God</hi> 
+               <note n="h" place="margin">Joſh. 1. 12, 13.</note>. And except a man be ſo born, by the ſpeciall vertue and work of the Spirit, he can neither <hi>ſee</hi> nor <hi>enter</hi> into the Kingdom of God <note n="i" place="margin">Joh. 3. 3, 5.</note>.</p>
+            <p>Wherefore ſecondly, if the caſe ſtand thus, recount, I beſeech you, how neerly it concerns us to make this <hi>ingrafture</hi> and <hi>implantation</hi> ſure. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (in the words of the Apoſtle) <hi>Examine your ſelves whether ye be in the ſaith.</hi> And having ſo done, over with it again, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>prove your own ſelves. Know ye not your own ſelves, how that Jeſus Chriſt is in you, except ye be Repro<g ref="char:EOLhyphen"/>bates</hi> 
+               <note n="k" place="margin">2 Cor. 13. 5.</note>. It is altogether prepoſterous to conclude an in<g ref="char:EOLhyphen"/>tereſt to heaven, without aſſurance of this ſpiritual im<g ref="char:EOLhyphen"/>plantation. Aſſurance none without experience of a ſu<g ref="char:EOLhyphen"/>pernatural change. An eaſie matter to pretend to a
+<pb n="6" facs="tcp:97379:7"/> communion with Chriſt, to a memberſhip in his myſtical body: but to prove it by grace for grace <note n="l" place="margin">Joh. 1. 16.</note>, by a partici<g ref="char:EOLhyphen"/>pation of the Divine nature <note n="m" place="margin">2 Pet. 1. 4.</note>, by the indument of the New man <note n="n" place="margin">Col. 3. 10.</note>, <hi>hic labor, hoc opus eſt.</hi> O man, whoſoever thou art that liveſt in the ſervice of ſin, that drinkeſt ini<g ref="char:EOLhyphen"/>quity like water, &amp; walkeſt after the courſe of this world, fulfilling the baſe deſires of the fleſh, and of the mind, its an evidence againſt thee (notwithſtanding all thy confidence) that thou haſt not partaken of the root or of the fatneſſe of the Olive-tree, but art hitherto Chriſt<g ref="char:EOLhyphen"/>leſſe, by that Apoſtolick maxime, <hi>If any man have not the Spirit of Chriſt, he is none of his</hi> 
+               <note n="o" place="margin">Rom. 8. 9.</note>. And ſo (with <hi>Pauls Epheſians,</hi> while unconverted) deſtitute of Chriſt, and of hope together <note n="p" place="margin">Eph. 2. 12.</note>.</p>
+            <p>Whereas (contrarily) if any through the Spirit doe mortifie the deeds of the body <note n="q" place="margin">Rom. 8. 13.</note>, if they purifie them<g ref="char:EOLhyphen"/>ſelves even as Chriſt is pure <note n="r" place="margin">1 Joh 3. 3.</note>; if they yield their mem<g ref="char:EOLhyphen"/>bers as inſtruments of righteouſneſſe unto God <note n="ſ" place="margin">Rom. 6. 13.</note>, theſe need not ſay, <hi>Who ſhall aſcend into Heaven? or, who ſhall deſcend into the deep?</hi> For they bear in their own heart a Teſtimonial of their Regeneration, and may reſolve upon a right unto the Tree of life, with a priviledge to enter in through the gates into the City <note n="t" place="margin">Rev. 22. 14.</note>. Only,</p>
+            <p>In the laſt place, upon ſence of this bleſſed ingrafture, great reaſon trees of righteouſneſs ſhould acknowledge the hand that planted them <note n="u" place="margin">Iſ. 61. 3. cap. 43. 21.</note>, rejoyce in him that made them. <hi>That they enter into his gates with thanksgiving, and into his Courts with praiſe</hi> 
+               <note n="w" place="margin">Pſ. 100. 4.</note>. For in this great work of Regeneration it is the Lord that hath made us, and not we our ſelves <note n="x" place="margin">Pſ. 100. 3.</note>. It is the Father that hath planted us, and not we our ſelves. He is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Husband<g ref="char:EOLhyphen"/>man; we onely <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his husbandry <note n="z" place="margin">1 Cor. 3. 9.</note>, and ſhould<note place="margin">y. Joh. 15. 1.</note> therefore ſhew forth the vertues the praiſes of him who hath called us to glory and vertue; ſaying, <hi>Not unto us, Lord, not unto us,</hi> [not to the power of nature, or to ar<g ref="char:EOLhyphen"/>bitrary choice] <hi>but unto thy Name give thou the glory</hi> 
+               <note n="a" place="margin">Pſal. 115. 1.</note>. If <hi>Plato</hi> could be thankfull for being a <hi>Grecian,</hi> not a
+<pb n="7" facs="tcp:97379:7"/> 
+               <hi>Barbarian,</hi> an <hi>Athenian</hi> among <hi>Grecians,</hi> a Philoſopher among <hi>Athenians:</hi> much rather ſhould the faithfull for that they are born of God <note n="b" place="margin">
+                  <hi>1 Joh.</hi> 5. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, and made partakers of his Son <note n="c" place="margin">Heb. 3. 14.</note>. Eſpecially ſeeing firſt before their ingrafture, he found them in no better a condition then the reſt of the world; all wretched and miſerable, and poor, and blind and naked. <note n="d" place="margin">Rev. 3. 17.</note> Nor could any thing difference them ſave his own diſcriminating grace, <note n="e" place="margin">Sola gratia redemptos diſ<g ref="char:EOLhyphen"/>cernit a perdi<g ref="char:EOLhyphen"/>tis. Aug. in En<g ref="char:EOLhyphen"/>chir.</note>. Even ſo, Father, for ſo it ſeemed good in thy ſight. <note n="f" place="margin">Mat. 11. 26.</note>.</p>
+            <p>Secondly, and in the thoughts of his goodneſs towards them, he had reſpect to their diſpoſal as well as ingraf<g ref="char:EOLhyphen"/>ture, tendred their accommodation as well as planting. For that's our next particular in this deſcription of a bleſſed man, as he is repreſented in his accommodation, [planted by the rivers of water.]</p>
+            <p>A ſituation (by general conſent) of choyceſt meetneſs for fruit-bearing trees, that time after time, however the ſeaſon fall out, they may have the benefit of water to make them fruitful. And accordingly wiſe King Solo<g ref="char:EOLhyphen"/>mon (who thought it no diſparagement to be ſeen in husbandry) made pools of water, (<hi>Eccleſ.</hi> 2. 6.) to wa<g ref="char:EOLhyphen"/>ter the wood that bringeth forth trees. Yea, 'tis obſerved to be their uſual courſe in ſuch hot Countreys to plant their gardens neer Well-ſprings of water, and to derive many rivulets upon the roots of the trees for their con<g ref="char:EOLhyphen"/>ſtant moyſtening and refreſhing. <note n="g" place="margin">Aynſworth on Pſ. 1. 3.</note>.</p>
+            <p>Now alluſions hereunto are not unfrequent in holy Scripture, for expreſſion of ſupplies both ſecular and ſa<g ref="char:EOLhyphen"/>cred. As namely where it compares the proud <hi>Aſſyrian</hi> to a tall Cedar with fair branches, whom the waters made great, and the deep ſet him up on high, <note n="h" place="margin">Ezek. 31. 3, 4.</note>. As alſo unthankful <hi>Hieruſalem</hi> to a Spreading Vine planted by great waters, that it might bring forth branches, and bear fruit. <note n="i" place="margin">Ezek. 17. 8.</note>. And to intimate the ſame accommodations intended in my Text, it aſſimilates the ſincere believer to a tree planted by the water, that ſpreads out her roots by the rivers <note n="k" place="margin">
+                  <hi>Jer.</hi> 17. 7. 8.</note>.</p>
+            <pb n="8" facs="tcp:97379:8"/>
+            <p>So that this commodious ſituation of trees, is a nota<g ref="char:EOLhyphen"/>ble illuſtration of God's care over his people; by whoſe fatherly providence it is, that they are graciouſly ac<g ref="char:EOLhyphen"/>commodated, ſupplied, and ſuccoured with all things ap<g ref="char:EOLhyphen"/>pertayning to life and godlineſs: As namely,<note place="margin">2 Pet. 1. 3.</note>
+            </p>
+            <p>1. Externally, with the adminiſtration of the Word and Sacraments, which are as rivers of water to the thirſty ſoul, and (like the ſtreams of <hi>Kidron</hi>) make glad the City of God, <note n="m" place="margin">Pſal. 46. 4.</note>. For (as the Lord in the ſecond of <hi>Micah) do not my words do good to him that walketh uprightly?</hi> Yea, <hi>the Statutes of the Lord rejoyce the heart,</hi> Pſal. 19. 8. <hi>And from the conſolation of the Scriptures ariſeth our hope,</hi> Rom. 15. 4. <hi>They are comforts in affli<g ref="char:EOLhyphen"/>ction,</hi> 
+               <note n="n" place="margin">Pſal. 119. 50.</note> 
+               <hi>reliefs in temptation,</hi> 
+               <note n="o" place="margin">
+                  <hi>Pſ.</hi> 73. 16. 17.</note> 
+               <hi>meanes of a ſpiritual thri<g ref="char:EOLhyphen"/>ving and fructifying in Gods garden.</hi> 
+               <note n="p" place="margin">1 Pet. 2. 2.</note>.</p>
+            <p>Much rather as they are ſeconded with thoſe viſible words <note n="q" place="margin">Quid ſunt aliud corpora<g ref="char:EOLhyphen"/>lia Sacramen<g ref="char:EOLhyphen"/>ta, quam quae<g ref="char:EOLhyphen"/>dam quaſi verba viſibilia? Aug.</note>, <hi>the ſeals of the righteouſneſs of faith</hi> 
+               <note n="r" place="margin">Rom 4. 11.</note>, thoſe bleſſed cheriſhers and foſterers of Gods Plantation. For although their inſtrumentality be Moral, not Phiſical, in the conveyance and exhibition of grace, yet being of divine appointment and the miniſtration of the ſpirit, they are (<hi>like the Oath of God annex't to his Counſel</hi> s) means of ſtrong conſolation to them that believe. For<note place="margin">Heb. 6. 17, 18.</note> to the end they may take effect, the faithful (beſides theſe outward Well-ſprings) are accommodated in the 2. place internally, with the ſoveraign influences and irrigations of Chriſt his Spirit. By whoſe gracious inha<g ref="char:EOLhyphen"/>bitancy in their ſouls, he becomes unto them a Foun<g ref="char:EOLhyphen"/>tain of Gardens, (<hi>Cant.</hi> 4. 15.) a well of water, and ſtreams from <hi>Lebanon.</hi> So that God having once con<g ref="char:EOLhyphen"/>vey'd the Spirit of his Son into their hearts, they have a pledge of his preſence to comfort them in their pilgri<g ref="char:EOLhyphen"/>mage, a witneſs of their adoption to help their infirmi<g ref="char:EOLhyphen"/>ties, a guide of their life to keep them from falling, a faithful remembrancer to prompt them to duty, a ſeal of their redemption, an earneſt of their ſalvation, till they behold in glory what they believe in grace.</p>
+            <pb n="9" facs="tcp:97379:8"/>
+            <p>A felicity not conceivable by the children of this world; for did they truly apprehend, and rightly va<g ref="char:EOLhyphen"/>lue it, they would be more in their deſires and motions towards it. <hi>If thou kneweſt the gift of God</hi> (ſaid our Sa<g ref="char:EOLhyphen"/>viour to the woman of <hi>Samaria) and who it is that ſaith unto thee, give me to drink, thou woulſt have asked of him, and he would have given thee living water.</hi> 
+               <note n="t" place="margin">John. 4. 10.</note>. But, poor ſinful creature! ſhe knew it not. Nor was it her caſe alone, 1 <hi>Cor.</hi> 2. Eye hath not ſeen, nor ear heard, nei<g ref="char:EOLhyphen"/>ther have entred into the heart of man the things which God hath prepared for them that love him. <hi>Balaam</hi> in<g ref="char:EOLhyphen"/>deed had a kind of glympſe of it in the 24. of <hi>Numbers.</hi> How goodly (ſaith he) are thy Tents, O <hi>Jacob,</hi> and thy Tabernacles, O Iſrael! As gardens by the river ſide, as the trees of Lign-aloes which the Lord hath planted, and as Cedar-trees beſide the waters. Yea, but the knowledge he profeſſeth hereof, was not by faiths ap<g ref="char:EOLhyphen"/>prehenſion, or upon perſonal experience, or with a cordial valuation; only by the viſion of the Almighty, <note n="u" place="margin">Num. 24. 16.</note>. Whereas the knowledge which the faithful have, is fidu<g ref="char:EOLhyphen"/>cial, experimental, appretiative, delightful. They ſpeak, but firſt they have believed, <hi>Pſal.</hi> 116. 10. I believed, therefore have I ſpoken. They ſee, but firſt they have ta<g ref="char:EOLhyphen"/>ſted, <note n="w" place="margin">Ejus dulce<g ref="char:EOLhyphen"/>dinem non cog<g ref="char:EOLhyphen"/>niſcitis, quia minime degu<g ref="char:EOLhyphen"/>ſtatis. Greg.</note>. <hi>Pſal.</hi> 34. 8. Taſt and ſee that the Lord is graci<g ref="char:EOLhyphen"/>ous. And then for appretiation and delight, O how great is the goodneſs which thou haſt laid up for them that fear thee! <note n="x" place="margin">Pſal. 31. 19.</note>. How amiable are thy Tabernacles, O Lord of Hoſts! <note n="y" place="margin">Pſal. 84. 1.</note>. A day in thy Courts is better then a thouſand, <note n="z" place="margin">ver. 10.</note>. Bleſſed is the man whom thou chooſeſt and cauſeſt to approach unto thee, that he may dwell in thy Courts. We ſhall be ſatisfied with the goodneſs of thy houſe, even of thy holy Temple, <note n="a" place="margin">Pſal. 65. 4.</note>.</p>
+            <p>The conſideration whereof may ſerve in the firſt place to depretiate the adored excellencies and perfections of this world, and to take off our ſpirits from diſconten<g ref="char:EOLhyphen"/>tative emulation at the ſight of proſperous ſinners. For alas! in the greateſt fulneſs of their external accommo<g ref="char:EOLhyphen"/>dations,
+<pb n="10" facs="tcp:97379:9"/> in the height of their glory, and the exquiſite<g ref="char:EOLhyphen"/>neſſe of their delights, yet for lack of theſe rivers of wa<g ref="char:EOLhyphen"/>ter they are but a drie ignoble generation; not worthy to be compared with the plants of Chriſt, even in the worſt of their outward condition. For as he in <hi>Plutarch</hi> ſaid of the <hi>Scythians,</hi> that although they had not Muſick nor Vines among them, yet they had gods, <note n="b" place="margin">
+                  <hi>Plutarch.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>. So the Regenerate in their greateſt want of outward ſupplies, yet ſo long as they have the Spirit of God, and their ſi<g ref="char:EOLhyphen"/>tuation by theſe ſtill waters <note n="c" place="margin">Pſ. 23. 2.</note>, they are not deſtitute of true felicity. Yea, by the benefit of thoſe holy ſtreams, they are happy in the exerciſe, happy in the increaſe, in the aſſurance and continuance of received graces. In the due valuation whereof, the treaſures of <hi>Egypt</hi> were but traſh to <hi>Moſes</hi> 
+               <note n="d" place="margin">Heb. 11. 26.</note>; the priviledges of a Jew, but dung to St. <hi>Paul</hi> 
+               <note n="e" place="margin">Phil. 3. 8.</note>; the Tents of <hi>Kedar</hi> but a priſon to <hi>David</hi> 
+               <note n="f" place="margin">Pſ. 120. 5.</note>; <hi>I had rather</hi> (ſaith he) <hi>be a door-keeper in the houſe of my God, then to dwell in the Tents of wickedneſſe</hi> 
+               <note n="g" place="margin">Pſ. 84. 10.</note>. And accordingly the Emperour <hi>Theodoſius</hi> rejoyced more in his Eccleſiaſtical memberſhip, then in all his Imperial Majeſty.</p>
+            <p>Wherefore 2. ſay now, ye that are planted in the houſe of the Lord, is it not good being here? to keep cloſe to him that hath thus diſpoſed us and tendred our ſpiritual accommodation? O let it engage us, and ſtrengthen our reſolutions to perſevere in the faith of Je<g ref="char:EOLhyphen"/>ſus Chriſt. Remember the trees in <hi>Jotham</hi>'s parable <note n="h" place="margin">Jud. 9. 8. &amp;c.</note>, which being ſeverally courted with the proffer of a King<g ref="char:EOLhyphen"/>dom, ſhould I (ſaith the Olive-tree) leave my fatneſſe? Should I (ſaith the Fig-tree) forſake my ſweetneſſe? Should I (ſaith the Vine) leave my Wine? So againſt all the allurements and temptations of the world, ſhould we forſake theſe rivers of living water, theſe peerleſſe priviledges for the momentany pleaſures of ſin? No, take heed, brethren, leſt there be in any of you an evil heart of unbelief in departing from the living God <note n="i" place="margin">Heb. 3. 12.</note>; Lord (ſaith <hi>Peter</hi>) to whom ſhall we go? Thou haſt the
+<pb n="11" facs="tcp:97379:9"/> 
+               <hi>words of eternal life</hi> 
+               <note n="k" place="margin">John 6. 68.</note>. <hi>I will dwell</hi> (ſaith <hi>David) in the houſe of the Lord for ever</hi> 
+               <note n="l" place="margin">Pſal. 23. 6.</note> And, <hi>Let their money periſh</hi>
+               <note place="margin">m In vit. Ga<g ref="char:EOLhyphen"/>leac. Caracc.</note> 
+               <hi>with them</hi> (ſaid that noble Marqueſſe of <hi>Vico) that eſteem all the gold in the world worth one dayes ſociety with Je<g ref="char:EOLhyphen"/>ſus Chriſt and his holy Spirit.</hi>
+            </p>
+            <p>Now in the ſenſe of this bleſſed accommodation, what remaines but that we return thoſe Rivers to their <hi>Ocean,</hi> 
+               <note n="n" place="margin">Suae reddan<g ref="char:EOLhyphen"/>tur origini fluenta gratiae. Bern.</note> and improve them to anſwerable <hi>Fruit?</hi> Who plants a Vineyard, and eats not of the <hi>fruit thereof</hi> 
+               <note n="o" place="margin">1 Cor. 9. 7.</note>? And that's our laſt particular in this deſcription of a bleſſed man, as he is repreſented in his <hi>fructification, [that bring<g ref="char:EOLhyphen"/>eth forth his fruit in his ſeaſon.</hi>]</p>
+            <p>Which words, although in a Grammatical Conſidera<g ref="char:EOLhyphen"/>tion, they relate to the <hi>Tree,</hi> yet <hi>intentionally</hi> to the Re<g ref="char:EOLhyphen"/>gerate, compared to it. And they lie to be taken up in a four-fold gradation.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>He bringeth forth</cell>
+                     <cell>His fruit</cell>
+                  </row>
+                  <row>
+                     <cell>Bringeth forth fruit</cell>
+                     <cell>In his Seaſon.</cell>
+                  </row>
+               </table>
+            </p>
+            <p n="1">1. <hi>Edit,</hi> He bringeth forth] is not meerly for <hi>recei<g ref="char:EOLhyphen"/>ving,</hi> but as well for <hi>yielding;</hi> not barely for taking <hi>in,</hi> but joyntly for giving <hi>forth;</hi> for the <hi>actus elicitus</hi> [be<g ref="char:EOLhyphen"/>lieving with the heart] and for the <hi>actus imperatus</hi> [con<g ref="char:EOLhyphen"/>feſſing with the mouth. <note n="p" place="margin">Rom. 10. 10.</note>] For receving by <hi>Faith</hi> of Chriſt's fulneſs, and for disburſing by <hi>Love</hi> to Chriſt's glo<g ref="char:EOLhyphen"/>ry; that as out of the abundance of the heart the mouth ſpeaketh <note n="q" place="margin">Mat. 12. 34.</note>, ſo the ſap of infuſed grace will ſoon finde vent for its own diſcloſure. In the place before alledged [<hi>I believed, therefore have I ſpoken</hi>] And in 2 <hi>Cor. 4. We alſo believe, and therefore ſpeak.</hi> Howbeit, whereas ver<g ref="char:EOLhyphen"/>bal profeſſion is but the leaf of the tree, the honeſt ſin<g ref="char:EOLhyphen"/>cere Chriſtian determines not his faith in leaves, ſtopps not there, but,</p>
+            <p n="2">2. <hi>Edit fructum,</hi> He bringeth forth fruit] renders his faith <hi>viſible</hi> by the adjuncture of <hi>New Obedience;</hi> his profeſſion <hi>honourable</hi> by tranſlating the form into <hi>Power;</hi>
+               <pb n="12" facs="tcp:97379:10"/> his graces <hi>obſervable</hi> by drawing them out into <hi>Works:</hi> As his faith into the <hi>work</hi> of faith; his love into the <hi>la<g ref="char:EOLhyphen"/>bour</hi> of love; his hope into the <hi>patience</hi> of hope, 1 <hi>Theſſ.</hi> 1. That as <hi>Jacob</hi> allegorically prophecieth of <hi>Joſeph [A fruitful bough by a Well</hi>] Gen. 49. 22. So it is the prayer and care of an Iſraelite indeed that (in ſome correſpon<g ref="char:EOLhyphen"/>dencie to his gracious ſupplies) he may be filled with the fruits of righteouſneſſe, <note n="r" place="margin">Phil. 1. 11.</note> and fruitful in every good work <note n="ſ" place="margin">Col. 1. 10.</note>. Agreeably to that of our Saviour, <hi>He that abo<g ref="char:EOLhyphen"/>deth in me and I in him, the ſaine bringeth forth much fruit</hi> 
+               <note n="t" place="margin">John 15 1.</note>.</p>
+            <p>And ſurely, all things conſidered, great reaſon he ſhould. It is the object of divine expectation, <hi>Iſa.</hi> 5. 7. He looks for [the grapes of] righteouſneſſe. It is the end of our Saviours paſſion, <hi>Tit.</hi> 2. 14. that we ſhould be zealous of good works. The purpoſe of our <hi>Implantati<g ref="char:EOLhyphen"/>on,</hi> Eph. 2. 10. <hi>Created unto Chriſt Jeſus unto good works.</hi> The intent of our ſpiritual marriage, <hi>Rom.</hi> 7. 4. that we ſhould bring forth fruit unto God. The drift of divine forbearance, <hi>Mat.</hi> 3. 8. that whereas the wrath of God is <hi>ira ventura,</hi> a wrath to come, and the axe but laid to the root of the trees, we therefore bring forth fruits meet for repentance. So that, take away fruit, and you croſſe them all; God's patient expectation; Chriſt's death and paſſion; our marriage and implantation: Theſe can never be anſwered with meer leaves. It is not <hi>Lord, Lord,</hi> or <hi>The Temple of the Lord,</hi> or a parcel of ſpecious words, or a Baptiſmal initiation, or a formal fre<g ref="char:EOLhyphen"/>quenting Gods houſe, or an eating &amp; drinking in Chriſt's preſence, that can evidence our part in theſe. In the words of a holy Martyr <note n="u" place="margin">John Huſſ.</note>, <hi>
+                  <g ref="char:V">Ʋ</g>bi opera bona non apparent ad extra, ibi fides non eſt ad intra.</hi> The root of faith can have no exiſtence in our hearts, if the fruit of it be to ſeek in our lives. If your lives be unprofitable under the <hi>name</hi> of <hi>Chriſtians,</hi> your converſation fruitleſſe under the <hi>leaves</hi> of <hi>profeſſion,</hi> ſuch fig-leſſe Fig-trees doe but cumber the ground, and can look for nothing but the
+<pb n="13" facs="tcp:97379:10"/> axe and the fire <note n="w" place="margin">
+                  <hi>Arbor infru<g ref="char:EOLhyphen"/>ctuoſa, quae non niſi terram oc<g ref="char:EOLhyphen"/>cupat, duo tan<g ref="char:EOLhyphen"/>tum expectare poteſt, ſecurita ſcilicet &amp; ig<g ref="char:EOLhyphen"/>nem.</hi> Bern</note>: the one for their ſudden exciſion the other for their endleſs burning.</p>
+            <p>To prevent ſuch a woful iſſue, add to your leaves <hi>Fruit,</hi> to your faith <hi>Vertue</hi> 
+               <note n="x" place="margin">2 Pet. 1. 5.</note>, and endeavour (as thoſe ancient Chriſtians) <hi>Non grandia loqui, ſed vivere,</hi> To be doers of the word, and not hearers only, deceiving your own ſoules <note n="z" place="margin">Jam. 1. 22.</note>. <hi>De virtute loqui minimum eſt.</hi> 
+               <note n="a" place="margin">Perſ.</note> The eaſi<g ref="char:EOLhyphen"/>eſt thing of an hundred to talk of Chriſtianity, to diſ<g ref="char:EOLhyphen"/>courſe<note place="margin">y <hi>Minut. Felix in Octav.</hi>
+               </note> of Religion, to hear Chriſt's Miniſters, to give applauſe to their labours. <hi>Haec ſunt folia</hi> (ſaith <hi>Aug.) modò fructus quaeritur.</hi> Theſe are leaves indeed, but the fruit is all. <hi>Herein</hi> (ſaith Chriſt) <hi>is my Father glorified, that ye bear much fruit,</hi> John 15. 8. And ſuch only ſhall at laſt be glorified of him, <hi>Rom.</hi> 2. 10. Glory, honour, and peace to every man that worketh good. For as Fa<g ref="char:EOLhyphen"/>thers obſerve of the trees uſed about the building of the Temple, that neither poſt, nor ſpar, nor ſo much as a pin, but was made of the wood of ſome fruit-bearing tree <note n="b" place="margin">
+                  <hi>Biſhop</hi> An<g ref="char:EOLhyphen"/>drewes <hi>of the Nativ. Ser. 10.</hi>
+               </note>: So none to have place in that eternal palace of glory, but fruit-bearing Chriſtians, abounding in the work of the Lord. For (by the verdict of the Text) he only is the bleſſed man that brings forth fruit.</p>
+            <p>Where (to look more narrowly into the Metaphor) 'tis very obſervable, that in doing the works of Righte<g ref="char:EOLhyphen"/>ouſneſſe,</p>
+            <p n="1">1. <hi>Profert, non ſimulat;</hi> He vitally beares it, not de<g ref="char:EOLhyphen"/>ceitfully counterfeits it. The works of his profeſſion are not fruits artificially ſembled, but naturally yielded; not like <hi>Zeuxes</hi> his painted grapes which deceived the birds, nor like <hi>Daedalus</hi> his <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which had almoſt de<g ref="char:EOLhyphen"/>ceived men; nor like <hi>Pygmalion's</hi> Statue, on which him<g ref="char:EOLhyphen"/>ſelf became enamoured; but the genuine and unfeigned products of ſanctifying grace; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 1 <hi>Tim.</hi> 1. 5. out of pure heart, and of a good conſcience, and of faith unfeigned.</p>
+            <p n="2">2. And in working Righteouſneſſe, <hi>profert, non cogi<g ref="char:EOLhyphen"/>tur;</hi> He acts not upon compulſion, but of a gracious
+<pb n="14" facs="tcp:97379:11"/> promptneſſe and inclination; takes not up duties as tireſome burthens, but loves and likes them as refreſhing exerciſes. Indeed, <hi>Virtus nolentium nulla eſt,</hi> ſaith the Moraliſt; To doe good againſt thy will, is (in effect) to doe ill. The ſervice thou doſt uncheerfully, <hi>Fit de te magis quàm facis,</hi> ſaith <hi>Proſper;</hi> 'Tis rather extorted from thee, then performed by thee. The bleſſed man is of another Spirit; not hal'd <hi>ab externo,</hi> by the violence of ſome compulſory Agent; but ſweetly diſpoſed by an inward principle of grace, drawn with the cords of love, acted and promoted by a ſpirit of ingenuity, 2 <hi>Cor.</hi> 3. Where the Spirit of the Lord is, there is liberty. This then for bringing Forth, and for bringing forth fruit, our two firſt gradations.</p>
+            <p n="3">3. <hi>Fructum ſuum,</hi> He bringeth forth his fruit. And his fruit (if we conſult the Apoſtle) is the fruit of the Spirit, <hi>Gal.</hi> 5. 22. Such as love, joy, peace, long-ſuffer<g ref="char:EOLhyphen"/>ing, gentleneſſe, goodneſſe, faith, meekneſſe, temperance; to crucifie the fleſh with the affections and luſts <note n="c" place="margin">Gal. 5. 24.</note>; to do juſtly; to love mercy; to walk humbly with thy God <note n="d" place="margin">Mic. 6, 8.</note>. The fruit of the ſpirit then, is the proper fruit of the regenerate.</p>
+            <p>Where haply ſome may ſay, How can theſe ſeveral In<g ref="char:EOLhyphen"/>tereſts accord? If theſe and the like be the fruits of God's Spirit, how are they ours? Muſt ſtakes be parted between God and our ſelves? I anſwer, Upon due conſi<g ref="char:EOLhyphen"/>deration, here is no Inconſiſtencie, no claſhing of Titles at all. No prejudice to Gods Intereſt in affirming the fruit to be ours. It is Gods fruit, <hi>ratione praecepti,</hi> as in his word he requires it.</p>
+            <list>
+               <item>Our fruit, <hi>ratione Officii,</hi> as we are bound to bear it.</item>
+               <item>Gods fruit, <hi>efficienter,</hi> as he gives vertue to yield it.</item>
+               <item>Our fruit, <hi>ſubjectivè,</hi> 
+                  <note n="e" place="margin">
+                     <g ref="char:V">Ʋ</g>t totum in illo [libero ar<g ref="char:EOLhyphen"/>bitrio] ſic to<g ref="char:EOLhyphen"/>tum ex illa, [gratia ſcili<g ref="char:EOLhyphen"/>cet divina.] Bern. de grat. &amp; lib. arbit.</note> and as he graciouſly imputes it.</item>
+               <item>Gods fruit, in the ultimate end, as it makes for his glory.</item>
+               <item>Our fruit, in the ſubordinate end, as it conduceth to our benefit.</item>
+            </list>
+            <p>So far from prejudicing the Divine Intereſs, that indeed the Lord will not own the fruit for his (ſo as to count it
+<pb n="15" facs="tcp:97379:11"/> for righteouſneſſe to thee) except it be <hi>fructus tuus,</hi> truly thine; Thine, for perſonality, of thine own bearing; and thine, for correſpondencie, of anſwerable kinde.</p>
+            <p n="1">1. It imports a Perſonality [He brings forth his own fruit] relies not upon the vertues and fruits of others. Such a lazie dependence can be of no avail for the aſſe<g ref="char:EOLhyphen"/>curation of true happineſſe. <hi>The juſt man</hi> (ſaith the Prophet) <hi>ſhall live by his own faith</hi> 
+               <note n="f" place="margin">Hab. 2. 4.</note>. <hi>And every man</hi> (ſaith the Apoſtle) <hi>ſhall bear his own burthen</hi> 
+               <note n="g" place="margin">Gal. 6. 5.</note>. Inſomuch as though <hi>Noah</hi> [a Preacher of Righteouſneſſe <note n="h" place="margin">2 Pet. 2. 5.</note>] <hi>Da<g ref="char:EOLhyphen"/>niel</hi> [a man greatly beloved <note n="i" place="margin">Dan. 10. 19.</note>] <hi>Job</hi> [ſo eminent in up<g ref="char:EOLhyphen"/>rightneſſe and the fear of God <note n="k" place="margin">Job 1. 1.</note>] though theſe three men were alive upon the earth, they ſhould deliver but their own ſouls by their righteouſneſs <note n="l" place="margin">Ezek. 14. 14.</note>. Well may the good<note place="margin">m Non poſſunt in die judicii aliorum virtu<g ref="char:EOLhyphen"/>tes aliorum vitia ſubleva<g ref="char:EOLhyphen"/>re. Hier.</note> lives and deeds of others be matter for thy imitation, or a relief to thy neceſſities; they cannot anſwer for thy ſin<g ref="char:EOLhyphen"/>ful ſecurity. Though born of Religious Parents, diſpo<g ref="char:EOLhyphen"/>ſed in a Religious Familie, ſeated under a Religious Pa<g ref="char:EOLhyphen"/>ſtor, of acquaintance with religious People; all this wil not ſerve to excuſe thy barren profeſſion. No, the righte<g ref="char:EOLhyphen"/>ouſneſſe of the righteous ſhall be upon him, and the wickedneſſe of the wicked ſhall be upon him <note n="n" place="margin">Ezek. 18. 20.</note>; and the righteous Judge give every man according to the fruit of his own doings <note n="o" place="margin">Jer. 17. 10.</note>.</p>
+            <p>Preſume not then, with thoſe fooliſh Virgins, upon the oyl in others veſſels <note n="p" place="margin">Mat. 25. 8.</note>: <hi>Think not</hi> (ſaith the Baptiſt) <hi>to ſay within your ſelves, We have Abraham to our Father</hi> 
+               <note n="q" place="margin">Mat. 3. 9.</note>. It was but a ſorry commendation of <hi>Lewis</hi> the Eighth of <hi>France,</hi> that he was ſon to an excellent Father, and Fa<g ref="char:EOLhyphen"/>ther to an excellent ſon <note n="r" place="margin">Iſaacſons Chron. ad an. 1223.</note>. <hi>Nam quae non fecimus ipſi, vix ea noſtra voco</hi> 
+               <note n="s" place="margin">Ovid.</note>. <hi>Thoſe things which ye have heard and ſeen in me, do,</hi> ſaith the Apoſtle, <hi>Phil.</hi> 4. 9. So the lauda<g ref="char:EOLhyphen"/>ble things of others, do in your own perſons, and call them not yours, till ye exemplifie them in your pra<g ref="char:EOLhyphen"/>ctiſe. For that's the firſt importment of [<hi>Fructum ſu<g ref="char:EOLhyphen"/>um</hi>] a perſonal fructification [He brings forth his own fruit.]</p>
+            <pb n="16" facs="tcp:97379:12"/>
+            <p n="2">2. It imports a genuine correſpondencie [his fruit] that is, <hi>ſecundum ſpeciem ſuam,</hi> according to his kinde. That as the Earth was appointed to bring forth the Fruit-tree, yielding fruit after his kinde <note n="t" place="margin">
+                  <hi>Gen.</hi> 1. 11.</note>: So a good man, <hi>out of the good treaſure of his heart, bringeth forth good things,</hi> ſaith our Saviour <note n="u" place="margin">Mat. 12. 35.</note>. And the wiſedom that is from above, is full of mercy and good fruits.<note place="margin">w Jam. 3. 17.</note>
+            </p>
+            <p>'Tis true, the choiſeſt Saints upon Earth have their aylings, their failings. In many things we offend all <note n="x" place="margin">Jam. 3. 2.</note>. Not a juſt man upon Earth that doth good and ſinneth not <note n="y" place="margin">Eccl. 7. 20.</note>. Nor from the firſt tranſgreſſion of the firſt man, can it be ſaid of any ſave Him who is God and Man, <hi>non nvoit pecatum,</hi> he knew no ſin. Howbeit the ſin<g ref="char:EOLhyphen"/>cere Believer is in a different habitude to the products of Corruption, and the proper fruits of Regeneration. Conſider him according to the New Creature, or as he is born of God, 'tis plain upon the Tables, 1 <hi>John 2. Who<g ref="char:EOLhyphen"/>ſoever is born of God doth not commit ſin. Non facit pec<g ref="char:EOLhyphen"/>catum, quia patitur potiùs,</hi> ſaith <hi>Bernard</hi> 
+               <note n="z" place="margin">De nat. &amp; dignit. Divin. amoris cap. 6.</note>. He is rather paſſive then active in the buſineſſe of ſin. He acknow<g ref="char:EOLhyphen"/>ledgeth to his grief <hi>peccatum inhabitans,</hi> the ſin that dwelleth in him <note n="a" place="margin">Rom. 7. 17. 24</note>; but he cannot own the works there<g ref="char:EOLhyphen"/>of as his genuine and proper fruit <note n="b" place="margin">Rom 7. 15. 17.</note>. No, that's of ano<g ref="char:EOLhyphen"/>ther nature, <hi>Rom. 7. 25. [I my ſelf</hi> (ſaith the Apoſtle) <hi>ſerve the Law of God</hi>] That's Repentance, and Mortification, and Newneſſe of life, <hi>Rom.</hi> 6. That's vertue, and tem<g ref="char:EOLhyphen"/>perance, and patience, and godlineſſe, and brotherly<g ref="char:EOLhyphen"/>kindneſſe, and charity, 2 <hi>Pet.</hi> 1. And theſe, not after the rigour of the Law, in the perfect performance of du<g ref="char:EOLhyphen"/>ty, but in the truth and ſincerity of a Chriſtians de<g ref="char:EOLhyphen"/>ſires, in the uprightneſſe and integrity of his will and purpoſe, in his careful purſuances and daily endeavors after all goodneſſe, and righteouſneſſe, and truth. For in theſe conſiſts the fruit of the Spirit, <hi>Eph.</hi> 5. 9. And in the practice of a ſound Believer, theſe only apper<g ref="char:EOLhyphen"/>tain to [<hi>Fructum ſuum</hi>] to his ſuitable and proper fruit. He is born of the Spirit, and (to anſwer his ſpi<g ref="char:EOLhyphen"/>ritual
+<pb n="17" facs="tcp:97379:12"/> birth) is careful to bring forth the fruits of the Spirit.</p>
+            <p>Now the due conſideration hereof, as it ſhould hum<g ref="char:EOLhyphen"/>ble the holieſt in the conſciouſneſſe of whatſoever un<g ref="char:EOLhyphen"/>kindlike and unanſwerable fruit, work them to a ſelf<g ref="char:EOLhyphen"/>confuſion for the ſurreptitious inordinancies of the Old Man, continue them in a ſtedfaſt reliance upon the righteouſneſſe of the Tree of Life: So it may ſerve to arm them againſt the propoſals of the World, and pro<g ref="char:EOLhyphen"/>voke them to an Examination and Trial of their fruit. For</p>
+            <p>1. Whereas the World would alienate us from the vertues and life of God, and would gain our conſent to bring forth heterogeneous fruit <note n="c" place="margin">
+                  <hi>Qui genitoris opera non facit, negat genus.</hi> Chryſol. <hi>Ser. 123.</hi>
+               </note> (luſt of the eye al<g ref="char:EOLhyphen"/>ledging, It will be for your Profit; luſt of the fleſh ſug<g ref="char:EOLhyphen"/>geſting, It will be for your Pleaſure; pride of life pre<g ref="char:EOLhyphen"/>tending, It will be for your Advancement) the truly regenerate Soul may hence be ſufficiently furniſhed and prompted to anſwer [That great God, whoſe I am by his grace, and whom I ſerve with my Spirit, hath not been as a Wilderdeſſe or barren heath unto me; but ha<g ref="char:EOLhyphen"/>ving mercifully choſen me out of the Commons of the World, he hath planted me in his incloſed Garden, in<g ref="char:EOLhyphen"/>graffed me into a Noble Stock, ſupplied me with Ri<g ref="char:EOLhyphen"/>vers of Living Water. And is it equitable, after all this, to yield him no better fruit? Is this correſpondent to the nature of ſo high a Calling? Is it <hi>Fructus meus,</hi> a kindlike fruit, conſentaneous to a ſpiritual ſtate? As <hi>Nehomiah</hi> 
+               <note n="d" place="margin">Neh. 6. 11.</note>, <hi>Should ſuch a man as I flee?</hi> No, the time paſt of my life may ſuffice me to have wrought the will of the Gentiles <note n="e" place="margin">1 Pet. 4. 3.</note>, to have brought forth <hi>la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruſcas,</hi> four grapes, thoſe wilde fruits of the Old Man. <hi>Haec vita ae<g ref="char:EOLhyphen"/>lios mores poſtulat.</hi> It muſt be otherwiſe now that I am planted in the houſe of the Lord] In the words of <hi>Leo,</hi> 
+               <note n="f" place="margin">Serm. 1. in Nativ. Dom.</note> 
+               <hi>Agnoſce, O Chriſtiane, dignitatem tuam,</hi> &amp;c. Acknow<g ref="char:EOLhyphen"/>ledge, O Chriſtian, thine own dignity, and being made partaker of the Divine Nature, return not into thy for<g ref="char:EOLhyphen"/>mer
+<pb n="18" facs="tcp:97379:13"/> vileneſſe by a degenerate converſation. But then,</p>
+            <p>In the ſecond place, whereas there may be much miſ<g ref="char:EOLhyphen"/>taking in the account of kindlike fruit (a way that may ſeem right unto a man, when the end is the wayes of death <note n="g" place="margin">Pro. 16. 25.</note>.) It therefore neerly concernes us to ſearch and try our wayes <note n="h" place="margin">Lam. 3. 40.</note>, and every man to prove his own work <note n="i" place="margin">Gal. 6. 40.</note>. For the fruit which thou mayſt think to be right, ſay it be of likely appearance, yet if deſtitute of divine allowance (either expreſſe, or by derivation) what can it be deemed but either the fruit of an ignorant phanta<g ref="char:EOLhyphen"/>ſie, or an arrogant ſuperſtitious vanity? And thy great<g ref="char:EOLhyphen"/>eſt diligence in bringing it forth, only <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a laborious loſſe of time. Again, admit it be of Gods commanding, yet if it ariſe not from a Supernatural root, from a Principle of ſpecial grace, from faith work<g ref="char:EOLhyphen"/>ing by love, it muſt either be violently forced, or hy<g ref="char:EOLhyphen"/>pocritically feigned, and ſo of no acceptation with God, <hi>Heb. 11. 6. Without Faith it is impoſſible to pleaſe God. Laudo fructum boni operis, ſed in fide agnoſco radicem,</hi> ſaith <hi>Auſtin</hi> 
+               <note n="k" place="margin">In Pſal. 31.</note>. I ſhall ever commend the fruit of a good work, but faith muſt be the root to make it good. Laſt<g ref="char:EOLhyphen"/>ly, if not rightly Scoped with reſpect to the glory of God, and to approvable Subordinate ends (for in di<g ref="char:EOLhyphen"/>vine morality 'tis the rectitude of the ayme, not the ſub<g ref="char:EOLhyphen"/>ſtance of the act that carries it with God. <note n="l" place="margin">
+                  <hi>Non actibus, ſed finibus pen<g ref="char:EOLhyphen"/>ſantur officia.</hi> Aug.</note>) Such ſiniſt<g ref="char:EOLhyphen"/>erly intended fruit is no better then the apples of <hi>Sodom,</hi> or the grapes of <hi>Gomorrah,</hi> or the fruit of degenerate <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> [fruit unto himſelf, <note n="m" place="margin">
+                  <hi>Hoſ.</hi> 10. 1. Iſrael is an empty vine, he bringeth forth fruit un<g ref="char:EOLhyphen"/>to himſelf.</note>] neither acceptable to God, nor profitable to the bearer.</p>
+            <p>Whereas (contrarily) if we work by rule, the unde<g ref="char:EOLhyphen"/>filed Law of God; if we live by faith in the merits and ſtrength of Chriſt; if we act ſincerely, with intention of our Maſters honour, there can be no clearer evidence of a reaſonable and ſpiritual ſervice; provided that it be performed <hi>in tempore ſuo,</hi> in its proper Seaſon. Which
+<pb n="19" facs="tcp:97379:13"/> is our laſt gradation obſervable in the Text, his fruit [in his ſeaſon.]</p>
+            <p>In his ſeaſon? When is that? Is the doing of good at any time unſeaſonable? Are we not all our time to continue in the ſervice of God? True, for the ge<g ref="char:EOLhyphen"/>neral we are (that's without controverſie) and as ne<g ref="char:EOLhyphen"/>ver to give over the care of well-doing; ſo to faſten upon it while it is called to day <note n="n" place="margin">Pſal. 95. 7. 8.</note>; not baulking the preſent ſeaſon with preſumption upon an uncertain hereafter; not proroguing the practice of Chriſtiani<g ref="char:EOLhyphen"/>ty to the bed of infirmneſs and languiſhing, with pur<g ref="char:EOLhyphen"/>poſe then to diſtribute, when thou mayſt keep thy wealth no longer; to ceaſe from ſinful pleaſures when ſtrength of purſuance fails thee (a time ill choſen for repentance, when, with <hi>Iſſachar,</hi> thou muſt couch between two burthens, the burthen of ſin and ſick<g ref="char:EOLhyphen"/>neſſe) No, that's only to be reckoned our day and our ſeaſon, wherein God requires and expects our fruit. And that's now (ſaith our Saviour, <hi>Joh.</hi> 5. 25.) <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>The hour is now.</hi> Behold, <hi>Now is the ac<g ref="char:EOLhyphen"/>cepted time;</hi> Behold, <hi>Now is the day of ſalvation, 2 Cor.</hi> 6. 2. And (clearly) it is the deplorable miſery of all deferrers, the hopes of grace to come make them graceleſſe for the preſent; and thoughts of what they will be regardleſſe of what they ſhould be. 'Tis true, the mercies of God are great, and to be admi<g ref="char:EOLhyphen"/>red; but his judgments are juſt, and to be feared. And though true repentance be never too late, yet late repentance is ſeldom true <note n="o" place="margin">In morte toe<g ref="char:EOLhyphen"/>nitentia eſt ſe<g ref="char:EOLhyphen"/>ra &amp; coacta, ideo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> raro ve<g ref="char:EOLhyphen"/>ra, ſeria &amp; ſincera. Corn. a Lap. in Luc. 12.</note>.</p>
+            <p>The Crab in the Fable, having wounded the Ser<g ref="char:EOLhyphen"/>pent to death, in recompence of his crooked life, and at laſt perceiving him to ſtreak out himſelf; <hi>At opor<g ref="char:EOLhyphen"/>tuit ſic vixiſſe</hi> (ſaith he) It is too late now, thou ſhouldſt have lived ſo. Ye may eaſily add the Moral. <hi>Vae illis</hi> (ſaith St. <hi>Ambroſe) qui tunc habuerunt terminum luxuriae, cum vitae.</hi> Woful is the cae of thoſe procra<g ref="char:EOLhyphen"/>ſtinating
+<pb n="20" facs="tcp:97379:14"/> ſinners, whoſe lives and luſts have their ends together.</p>
+            <p>Wherefore, knowing the dreadful conſequents of neglected time, ſay, I beſeech you every one in the ſecret of his own ſoul, [If I muſt once reform and break off my ſins; if I muſt bring forth fruits meet for repentance, why not to day? <note n="p" place="margin">
+                  <hi>Quamdiu cras, cras? Quare non mo<g ref="char:EOLhyphen"/>do? Quare non hac hora finis turpitudinis meae.</hi> Aug.</note> Why ſhould I ne<g ref="char:EOLhyphen"/>glect the time of my viſitation, and harden my heart by theſe unkind delayes? Why ſhould I boaſt my ſelf of to morrow, not knowing what a day may bring forth <note n="q" place="margin">Pro. 27. 1.</note>?]</p>
+            <p>When a certain City in <hi>Aſia</hi> had promiſed King <hi>Alexander</hi> the great a part of their Lands, and the half of all their goods: No (ſaith he) I am not come into <hi>Aſia</hi> to accept of what ye ſhall allot me, but that your ſelves ſhould take what I chance to leave <note n="r" place="margin">Sen. Epiſt. Lib. 7. Ep. 54.</note>. So it were high preſumption in us, ſhould we treat in like ſort with God, who hath all our times in his own power. <hi>Nullum tempus occurrit Regi,</hi> by that old rule in Law: So neither youth nor age can exempt from the ſervice of God. He is <hi>Alpha</hi> and <hi>Omega</hi> 
+               <note n="ſ" place="margin">Rev. 1. 8.</note>, the firſt &amp; the laſt <note n="t" place="margin">Rev. 2. 8.</note>; and we, from firſt to laſt to order our lives in his fear. Thus, in a general con<g ref="char:EOLhyphen"/>ſideration, even all our time is the Seaſon for bring<g ref="char:EOLhyphen"/>ing forth fruit.</p>
+            <p>But then if we deſcend to particularities, and con<g ref="char:EOLhyphen"/>ſider them in their due circumſtantials, this ſeems to be the Pſalmiſts meaning here, That it is the proper<g ref="char:EOLhyphen"/>ty of a bleſſed man to be watchful in eſpying, and wiſe in obſerving [<hi>ut res, ita tempora rerum</hi>] as the matter and ſubſtance of a particular duty, ſo the pro<g ref="char:EOLhyphen"/>per Seaſon wherein to do it. Which (for more di<g ref="char:EOLhyphen"/>ſtinct apprehenſion) ye may pleaſe to take up in a three-fold expreſſion.</p>
+            <p n="1">1. In his Seaſon] that is, in due place and order, upon requiſite and proper Antecedents. The non-obſervation
+<pb n="21" facs="tcp:97379:14"/> whereof is enough to deprave a preten<g ref="char:EOLhyphen"/>ded ſervice, ſo far as to deprive it of divine accep<g ref="char:EOLhyphen"/>tance. See it in ſome particulars. To preach the Goſpel of Chriſt, to hear the Word of Truth, to ſhew the Lords death in the Euchariſt, to adminiſter Paſtoral Conſolation: Theſe, and the like, are works of great importance. But then ſo to preach, as with<g ref="char:EOLhyphen"/>out commiſſion; ſo to hear, as without reſolution; ſo to communicate, as without preparation; ſo to comfort, as without tokens of contrition: Such pre<g ref="char:EOLhyphen"/>poſterous acts as theſe, are over-haſty for hope of ſpeed; good in themſelves, but (as <hi>Huſhai</hi> of <hi>Achita<g ref="char:EOLhyphen"/>phel</hi>'s counſel <note n="u" place="margin">2 Sam. 17. 7.</note>) not good <hi>hac vice,</hi> at ſuch a time; not countable for good to the Agent, for lack of re<g ref="char:EOLhyphen"/>quiſite Antecedents, 1 <hi>Chr. 15. 13. The Lord our God made a breach upon us, for that we ſought him not after the due order.</hi> That's the firſt Expreſſion.</p>
+            <p n="2">2. In his Seaſon] that is, anſwerably and ſuitably to whatſoever condition. For as this preſent life is ſubject to variety of changes; ſo the faithful in Chriſt are endued with variety of graces; and (like that Tree of life in the laſt of the <hi>Revel.</hi>) inabled to bear all manner of fruit, and to yield their fruit every moneth. As</p>
+            <list>
+               <item>In the moneth of Abundance, compaſſionate benefi<g ref="char:EOLhyphen"/>cence.</item>
+               <item>In the moneth of Poverty, ſubmiſſive contentation.</item>
+               <item>In the moneth of Health, induſtrious cheerfulneſs.</item>
+               <item>In the moneth of Sickneſs, religious patience.</item>
+               <item>In the moneth of Honour, the fruit of noble At<g ref="char:EOLhyphen"/>chievments.</item>
+               <item>In the moneth of Diſhonour, the fruit of a meek ſpirit.</item>
+               <item>In the day of Proſperity, thankfully rejoycing.</item>
+               <item>In the day of Adverſity, wiſely conſidering. <note n="*" place="margin">
+                     <hi>Eccl.</hi> 7. 16.</note>
+               </item>
+            </list>
+            <p>Inſomuch as a right-bred Chriſtian can alledge no
+<pb n="22" facs="tcp:97379:15"/> cauſe, either from his preſent condition, to take him<g ref="char:EOLhyphen"/>ſelf off from duty, or to perplex his ſoul with thoughts of after-changes. Seeing however it fare with him, it is his ſeaſon to fructifie; and whatever may befall him, he hath a ſap of ſuitable grace to bring forth in every ſeaſon.</p>
+            <p n="3">3. And laſtly, In his Seaſon] that is, <hi>acceptâ quâ<g ref="char:EOLhyphen"/>vis anſâ,</hi> taking hold on every hint and opportunity of doing good. Indeed, every time is not meet for every purpoſe; and conſequently every work not to be done at random in every time. <hi>Is this a time</hi> (ſaid the Prophet to his ſervant) <hi>to receive money, and to re<g ref="char:EOLhyphen"/>ceive garments</hi> 
+               <note n="w" place="margin">2 Kin. 5. 26.</note>? <hi>Should I weep</hi> (ſaid the Jew) <hi>in the fifth moneth</hi> 
+               <note n="x" place="margin">Zec. 7. 3.</note>? that is, in which the Temple was finiſhed. In <hi>Samuel</hi>'s abſence no ſeaſon for <hi>Saul</hi> to of<g ref="char:EOLhyphen"/>fer ſacrifice <note n="y" place="margin">1 Sam. 13. 12, 13.</note>: While <hi>David</hi> was over-powered, no ſeaſon for <hi>Joab</hi> to be charged with delinquencie <note n="z" place="margin">2 Sam. 3. 13.</note>. Till the wine was gone out, no ſeaſon for <hi>Nabal</hi> to be reminded of his folly <note n="a" place="margin">1 Sam. 25. 37.</note>. To every thing there is a ſeaſon, ſaith the Preacher, <hi>Eccl.</hi> 3. 1. And great diffe<g ref="char:EOLhyphen"/>rence (ſay our Criticks) between <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Time and Seaſon. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Opportunity is the flower of time; and a well-choſen ſeaſon the greateſt advantage of any action <note n="b" place="margin">
+                  <hi>Biſhop</hi> Hall <hi>in his</hi> Con<g ref="char:EOLhyphen"/>templ. <hi>lib. 21. on</hi> Haman, <hi>&amp;c.</hi>
+               </note>.</p>
+            <list>
+               <item>Like the golden Scepter held forth to Qu. <hi>Eſther</hi> 
+                  <note n="c" place="margin">Eſth. 5. 2.</note>.</item>
+               <item>Like one days Sun-ſhine in catching weather <note n="d" place="margin">John 5. 4.</note>.</item>
+               <item>Like thoſe troubled waters to the neereſt expe<g ref="char:EOLhyphen"/>ctant <hi>d,</hi> and</item>
+               <item>Like the valley of <hi>Achor</hi> for a door of hope <note n="e" place="margin">Hoſ. 2. 15.</note>.</item>
+            </list>
+            <p>The more to be lamented is the careleſneſs of moſt Chriſtians, that make ſo little uſe of many precious opportunities of doing or receiving good. To whom may be juſtly accommodated that ſaying of <hi>Elihu, God ſpeaks once, yea twice, yet man perceiveth it not</hi> 
+               <note n="f" place="margin">Job 33. 14.</note>. For the voice of the Lord is not only in the words of his Law, or in the motions of his Spirit, or in the lar<g ref="char:EOLhyphen"/>geſſes
+<pb n="23" facs="tcp:97379:15"/> of his goodneſſe, or in the rod of his diſplea<g ref="char:EOLhyphen"/>ſure, but in thoſe golden opportunities, in that price which he puts into mens hands; and yet <hi>deeſt ani<g ref="char:EOLhyphen"/>mus,</hi> few have any heart to improve them. Wiſe e<g ref="char:EOLhyphen"/>nough to take notice of natural Seaſons, to diſcern the face of the Sky; while (with thoſe Jewes) they care not to know <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note n="g" place="margin">Luke 12. 56.</note>, regard not the of<g ref="char:EOLhyphen"/>ferture of ſeaſonable hints for the exerciſe of Chriſti<g ref="char:EOLhyphen"/>an vertue, and the furthering of their accompts with God. And hence it comes to paſſe, that as <hi>Ahab</hi> loſt himſelf by letting <hi>Benhadad</hi> go out of his hands <note n="h" place="margin">1 Kin. 20. 42.</note>, as <hi>Felix</hi> was moſt unhappy in putting off <hi>Paul</hi> to another time <note n="i" place="margin">Acts 24. 25.</note>: So by reaſon of this non-advertency, this re<g ref="char:EOLhyphen"/>gardleſneſs of time and judgment, the miſery of man is great upon him <note n="k" place="margin">Eccl. 8. 6.</note>, while he neglects thoſe <hi>mollia tempora,</hi> deſirable ſeaſons for ſpiritual advantages, which may (haply) in all his remainder never come about again.</p>
+            <p>Wherefore, Brethren, to prevent this miſery, let it be our wiſedom and care in our ſeveral capacities, for the glory of God, for the behoof of our ſouls, to beautifie our ſervices with ſuitable ſeaſons; and (as the Lord in his providence ſhall hold them forth) to improve them in the diſcharge of Chriſtian duty.</p>
+            <p>It may be thou haſt a ſeaſon for ſome act of piety, an opportunity for prayer, for praiſes, for mourning, for rejoycing, for appearing in the cauſe of God.</p>
+            <p>Or a ſeaſon for brotherly-kindneſſe, an opportu<g ref="char:EOLhyphen"/>nity for admonition, exhortation, conſolation, coun<g ref="char:EOLhyphen"/>ſel, diſtribution to the neceſſities of the Saints.</p>
+            <p>Or a ſeaſon for neighbourly charity, an opportu<g ref="char:EOLhyphen"/>nity to compoſe differences, to relieve the oppreſſed, to help the fatherleſſe and widow, to conſider the poor and needy. O the preciouſneſſe of ſuch ſea<g ref="char:EOLhyphen"/>ſons, the happineſſe of ſuch ſouls as have grace to uſe them! For although in their natural account
+<pb n="24" facs="tcp:97379:16"/> they be but particles and minutes, yet in their ſpiri<g ref="char:EOLhyphen"/>tual and prudential managing, the very quinteſſence of time, and the <hi>apparatus</hi> to eternity. O Seaſon, Thou art in this like the City of God, <hi>I ſal. 83. 7. Glo<g ref="char:EOLhyphen"/>rious things are ſpoken of thee. A word ſpoken in ſea<g ref="char:EOLhyphen"/>ſon</hi> (ſo a work performed in ſeaſon) <hi>is like apples of gold in pictures of ſilver</hi> 
+               <note n="l" place="margin">Pro. 25. 11.</note>. [Like apples of gold] ſuch is the preciouſneſſe, [in pictures of ſilver] ſuch the luſtre, the grace and beauty of fruit in ſeaſon.</p>
+            <p>Unſeaſonable therefore to end here, without a word or two for this Seaſon, which calls upon you (my ho<g ref="char:EOLhyphen"/>noured and beloved Countrymen) in expectation of ſome fruit of this your Brotherly meeting. To which purpoſe I ſhall take my liberty from the reſemblance in the Text, to look upon you as ſo many Trees, whom the wiſe Moderator of all things hath (at times) tranſpoſed from the ſoyl of your Nativity, that ye might go to a City of habitation <note n="m" place="margin">Pſal. 107. 7.</note>; ingraffed you into the ſtock of an honourable Metropolis, diſpoſed you by the rivers and ſprings of water, bleſſed you with the upper-ſprings [the means of grace] bleſſed you with the nether-ſprings [the accommodations of this life] and graciouſly reſerved you to the ſolemni<g ref="char:EOLhyphen"/>ty of this day, whereon to record his mercies towards you.</p>
+            <p>And now, that this great Benefactor hath done all this for you, What more ſeaſonable then to renew your wonted conſultations in order to ſome thankful return? To ſay among your ſelves in the ſenſe and valuation of his favours, What is to be done for God? For God? yea but (as <hi>Eliphaz</hi> anſwered <hi>Job) Can a man be profitable unto God</hi> 
+               <note n="n" place="margin">Job 22. 2.</note>? <hi>The earth is the Lords, and the ſulneſſe thereof</hi> 
+               <note n="o" place="margin">Pſal 24. 1.</note>. <hi>Every beaſt of the forreſt is his, and the cattel upon a thouſand hills</hi> 
+               <note n="p" place="margin">Pſal. 50. 10.</note>. <hi>My goodneſs</hi> (ſaith <hi>David) extends not to thee</hi> 
+               <note n="q" place="margin">Pſal. 16. 2.</note>. Or (as the vul<g ref="char:EOLhyphen"/>gar Tranſlation hath it) <hi>Bonorum meorum non eges.</hi>
+               <pb n="25" facs="tcp:97379:16"/> Thou haſt no need of my goods. True, <hi>Non eget quo<g ref="char:EOLhyphen"/>ad potentiam ſuam</hi> (as <hi>Salvian</hi> ſpeaks <note n="r" place="margin">Ad Eccleſi<g ref="char:EOLhyphen"/>am Cath. lib. 4.</note>) God in re<g ref="char:EOLhyphen"/>ſpect of his power, of his Majeſty, hath no need. But then his Goſpel hath, his Church hath, your poor di<g ref="char:EOLhyphen"/>ſtreſſed brethren, yea the brethren of Chriſt have <note n="ſ" place="margin">Mat. 25. 40.</note>. O ſteep your thoughts in the remembrance of Gods dig<g ref="char:EOLhyphen"/>nations; embrace this Seaſon for the contrivance of ſome charitable benefaction. Let neither Mirth nor Fulneſſe cauſe you to forget your God, nor indiſpoſe you in the leaſt for the adminiſtration of ſuch a Ser<g ref="char:EOLhyphen"/>vice, as may not only ſupply the neceſſity of your brethren, but be abundant alſo (in the iſſue) by many thanſgivings unto God <note n="t" place="margin">2 Cor. 9. 12.</note>.</p>
+            <p>To conclude in few words (for it might ſavour of ſome jealouſie to over-charge an Ingenuous Audito<g ref="char:EOLhyphen"/>ry) If ye place any moment in the glory of your Ma<g ref="char:EOLhyphen"/>ker, any weight in the credit of your Profeſſion, any ſtrength in the honour of your Country, Let theſe aſſociate and accord you in your endeavours to doe worthily in <hi>Ephratah,</hi> to be famous in <hi>Bethlehem</hi> 
+               <note n="u" place="margin">Ruth 4. 11.</note>. And let us all be exhorted (of whatſoever denomina<g ref="char:EOLhyphen"/>tion) to walk in wiſedom with a holy vigilancie and circumſpection, redeeming the time by yielding our fruit in our Seaſon. So ſhall we receive in due ſeaſon the fruit of our fruits, the end of our faith, even the ſal<g ref="char:EOLhyphen"/>vation of our ſouls.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
